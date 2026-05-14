@@ -7,7 +7,7 @@ Add expenses with a description, amount, category, and date
 View all recorded expenses in a formatted table
 Search for specific expenses by keyword or category
 Delete any expense by its ID
-Generate three types of reports — overall summary, category-wise breakdown, and monthly breakdown
+Generate  reports — overall summary(category-wise breakdown).
 
 All data is stored in a local expenses.json file so that nothing is lost when the program is closed and reopened.
 This project was built as part of the CODE A NOVA Internship to strengthen logical thinking and real-world problem-solving skills using Python.
